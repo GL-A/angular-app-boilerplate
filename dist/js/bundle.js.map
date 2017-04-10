@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.js"],"names":["angular","module"],"mappings":";;AAAAA,QAAQC,MAAR,CAAe,KAAf,EAAsB,EAAtB;AACA","file":"bundle.js","sourcesContent":["angular.module('app', []);\n//hello gulp\n"]}
